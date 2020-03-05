@@ -862,9 +862,9 @@ textarea.input {
   text-align: center;
 }
 
-.footer-brand .logo>img {
-  max-height: 50px;
-}
+/* .footer-brand .logo>img {
+  max-height: 50px; 
+}*/
 
 .copyright {
   height: 50px;
