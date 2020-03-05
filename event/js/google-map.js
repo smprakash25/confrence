@@ -1,4 +1,4 @@
-var position = { lat: 40.730610 , lng: -73.935242 }
+var position = { lat: 22.776639 , lng:86.144094 }
 
 // Map style
 var style = [
